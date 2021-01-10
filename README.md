@@ -1,9 +1,9 @@
 # twitter_name_changer
-## Overview
+### Overview
 This is a Python program for automatic name Changer bot based on Twitter. Generally, this program works until the local Python software/Online Python Notebook is running. So a system can be developed based on 
 Online platform HEROKU, wherein the code can be deployed and the Twitter bot works even if the local python software is not running.
 
-## CODE AND IT’S EXPLANATION 
+### CODE AND IT’S EXPLANATION 
 The code consists of three files that have to be uploaded on GitHub.
 I) Procfile
 II) mainbot.py
@@ -113,7 +113,7 @@ III) requirements.txt
 
 As mentioned earlier, it is a python library to access the twitter API.
 
-## Deployment
+### Deployment
 
 * We have to make a twitter developer account and create an app
 there and then from keys and tokens section we have to generate
