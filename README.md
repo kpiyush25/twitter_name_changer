@@ -93,6 +93,7 @@ api is created by the above line as the function name clearly
 suggests.
 
 `while True:`
+
 `   user = api.get_user('PiyushK09474018')api.update_profile(name=f'Piyush Kumar|{follower_count(user)} Followers')`
 
     `print(f'Updating Twitter Name : Piyush Kumar|{follower_count(user)} Followers')`
