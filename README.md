@@ -10,10 +10,11 @@ II) mainbot.py
 III) requirements.txt
 
 The codes and explanations for respective files are as below:
+
 I) Procfile
 
 `worker: python mainbot.py`
-It is used connect our GitHub code to Heroku. Here the second word
+It is used to connect our GitHub code to Heroku. Here the second word
 is the language in which the code is written and the third one is the
 the name of the file that contains the code.
 
