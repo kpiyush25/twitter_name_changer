@@ -30,7 +30,7 @@ def follower_count(user):
 api = create_api()
 
 while True:
-    user = api.get_user('PiyushK09474018')
+    user = api.get_user('PiyushK27522718')
     api.update_profile(name=f'Piyush Kumar|{follower_count(user)} Followers')
     print(f'Updating Twitter Name : Piyush Kumar|{follower_count(user)} Followers')
     print('Waiting to refresh')
