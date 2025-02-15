@@ -32,7 +32,7 @@ api = create_api()
 while True:
     user = api.get_user('PiyushKThisSide')
     api.update_profile(name=f'Piyush Kumar|{follower_count(user)} Followers')
-    print(f'Updating Twitter Name : Piyush Kumar|{follower_count(user)} Followers')
+    print(f'Updating Twitter Name : Piyush Kumar')
     print('Waiting to refresh')
     time.sleep(60)
  
